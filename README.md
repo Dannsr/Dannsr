@@ -15,6 +15,7 @@ src = "https://raw.githubusercontent.com/gist/Dannsr/569991f684a9ae2e975fd52e56f
 <div style="display: inline_block">
     <img align="center" alt="Python-icon"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="R-icon" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+    <img align="center" alt="R-icon" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" />                           
     <img align="center" alt="TensorFlow-icon" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img align="center" alt="Excel-icon"src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img align="center" alt="Sql-icon"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
