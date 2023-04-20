@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Daniel! 🖐️
 
+<img align="right" height = "590em"
+src = "https://raw.githubusercontent.com/gist/Dannsr/569991f684a9ae2e975fd52e56f50885/raw/ba97c208bf6cd7288464e229979e11d181701929/githubcard.svg"/>
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danieconomics)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daan_rebirth/)
 
