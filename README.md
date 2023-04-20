@@ -19,18 +19,15 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: danieconomics@hotmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/daniel-silva-nascimento-a4824b202/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/daan_rebirth/">
       <img width="25" src="instagram.png">
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dannsr/Dannsr/blob/output/github-contribution-grid-snake.svg)
