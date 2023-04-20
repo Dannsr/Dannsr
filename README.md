@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="Vs-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
     <img align="center" height="30" width="40" alt="R-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg">
