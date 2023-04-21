@@ -4,7 +4,7 @@
 src = "https://raw.githubusercontent.com/gist/Dannsr/569991f684a9ae2e975fd52e56f50885/raw/602f0bd40c633b88bbeccf46ed009fc57b5602a2/githubcard.svg"/>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danieconomics)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-nascimento-a4824b202/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daannsilva/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daan_rebirth/)
 
 
