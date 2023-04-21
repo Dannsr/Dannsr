@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Daniel! 🖐️
 
-<img align="right" height = "590em"
+<img align="right" height = "590em" 
 src = "https://raw.githubusercontent.com/gist/Dannsr/569991f684a9ae2e975fd52e56f50885/raw/602f0bd40c633b88bbeccf46ed009fc57b5602a2/githubcard.svg"/>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danieconomics)
