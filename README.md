@@ -21,6 +21,7 @@ src = "https://raw.githubusercontent.com/gist/Dannsr/569991f684a9ae2e975fd52e56f
     <img align="center" alt="Sql-icon"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/ />
 
+
 Amante da Ciência de Dados, Inteligência Artificial e Economia.
 
 
