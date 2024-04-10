@@ -1,10 +1,11 @@
 
+
+
 <p align="center">Eu sou um Desenvolvedor RPA em transição de carreira para Desenvolvedor de Software com foco em .NET Core e C#. <br><br> Ao trabalhar como RPA na Konsi, tive contato com os times de tecnlogia e pude de fato me encontrar profissionamente. Registro aqui a minha paixão por Codar ❤️.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Dannsr&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Dannsr.vercel.app/api/top-langs/?username=Dannsr&show_icons=true&theme=radical&layout=compact" />
- </div>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=Dannsr&show_icons=true&theme=radical"/</div>
  
  &nbsp;
  &nbsp;
